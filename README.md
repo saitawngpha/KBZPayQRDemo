@@ -8,8 +8,10 @@ This sample project demonstrates two KBZPay payment flows for an iOS SwiftUI app
 The app uses SwiftUI + MVVM and keeps all merchant signing on your backend.
 
 ## Screenshot
-
-![KBZPay iOS demo](docs/screenshots/kbzpay-ios-demo.png)
+| Demo Screenshot | Demo Screenshot |
+|:-------------------------:|:-------------------------:|
+| <img src="src/1.png" width="300px"> | <img src="src/2.png" width="300px"> |
+| <img src="src/3.png" width="300px"> | <img src="docs/screenshots/kbzpay-ios-demo.png" width="300px"> |
 
 ## Official KBZPay API
 
